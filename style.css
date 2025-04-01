@@ -91,3 +91,12 @@ h2{
 .screen2 button{
   border-radius: .4rem;
 }
+
+@media (max-width: 540px) {
+  main {
+    position: absolute;
+    top: 150px;
+    min-width: 270px;
+  }
+
+}
